@@ -38,7 +38,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>今日も元気に生きております。</p>
+        <p>今日もカラ元気だよ。。。</p>
       </section>
 
       <section>
